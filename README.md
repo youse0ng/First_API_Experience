@@ -1,1 +1,1 @@
-# KT_AIVLE_SCHOOL
+# API 이용한 데이터 불러오기 첫 실습
